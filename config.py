@@ -1,0 +1,6 @@
+import random
+
+# 模拟配置
+MONITOR_INTERVAL = 2
+CPU_THRESHOLD = 80
+FAILURE_RATE = 0.2
